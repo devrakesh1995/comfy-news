@@ -1,0 +1,332 @@
+[
+    {
+      "user_id": "1",
+      "user_name": "ई-पेपर",
+      "user_display_name": "ई-पेपर",
+      "user_number":"+91 8765 3636 36"
+    },
+    {
+      "user_id": "2",
+      "user_name": "राज्य-शहर",
+      "user_display_name": "राज्य-शहर",
+      "user_number":"+91 2345 3636 36"
+    },
+    {
+      "user_id": "3",
+      "user_name": "ओरिजिनल",
+      "user_display_name": "DB ओरिजिनल",
+      "user_number":"+91 7865 3636 36"
+    },
+    {
+      "user_id": "4",
+      "user_name": "एक्सप्लेनर",
+      "user_display_name": "एक्सप्लेनर",
+      "user_number":"+91 6353 5645 36"
+    },
+    {
+      "user_id": "5",
+      "user_name": "बॉलीवुड",
+      "user_display_name": "बॉलीवुड",
+      "user_number":"+91 6754 3636 36"
+    },
+    {
+      "user_id": "6",
+      "user_name": "जीवन मंत्र",
+      "user_display_name": "जीवन मंत्र",
+      "user_number":"+91 3456 3636 36"
+    },
+    {
+      "user_id": "7",
+      "user_name": "मैगजीन",
+      "user_display_name": "मैगजीन",
+      "user_number":"+91 0987 3636 36"
+    },
+    {
+      "user_id": "8",
+      "user_name": "फेक न्यूज एक्सपोज़",
+      "user_display_name": "फेक न्यूज एक्सपोज़",
+      "user_number":"+91 6353 5678 36"
+    },
+    {
+      "user_id": "9",
+      "user_name": "स्पोर्ट्स",
+      "user_display_name": "स्पोर्ट्स",
+      "user_number":"+91 6353 0000 36"
+    },
+    {
+      "user_id": "10",
+      "user_name": "बिजनेस",
+      "user_display_name": "बिजनेस",
+      "user_number":"+91 6353 3344 36"
+    },
+    {
+      "user_id": "11",
+      "user_name": "देश",
+      "user_display_name": "देश",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "12",
+      "user_name": "विदेश",
+      "user_display_name": "विदेश",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "13",
+      "user_name": "यूटिलिटी",
+      "user_display_name": "यूटिलिटी",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "14",
+      "user_name": "लाइफ-साइंस",
+      "user_display_name": "लाइफ-साइंस",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "15",
+      "user_name": "टेक-ऑटो",
+      "user_display_name": "टेक-ऑटो",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "16",
+      "user_name": "वुमन",
+      "user_display_name": "वुमन",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "17",
+      "user_name": "करिअर",
+      "user_display_name": "करिअर",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "18",
+      "user_name": "राजस्थान",
+      "user_display_name": "राजस्थान",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "19",
+      "user_name": "मध्य प्रदेश",
+      "user_display_name": "मध्य प्रदेश",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "20",
+      "user_name": "उत्तरप्रदेश",
+      "user_display_name": "उत्तरप्रदेश",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "21",
+      "user_name": "बिहार",
+      "user_display_name": "बिहार",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "22",
+      "user_name": "छतीसगढ",
+      "user_display_name": "छतीसगढ",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "11",
+      "user_name": "हरियाणा",
+      "user_display_name": "हरियाणा",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "23",
+      "user_name": "नई दिल्ली",
+      "user_display_name": "नई दिल्ली",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "24",
+      "user_name": "महाराष्ट्र",
+      "user_display_name": "महाराष्ट्र",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "25",
+      "user_name": "झारखंड",
+      "user_display_name": "झारखंड",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "26",
+      "user_name": "पंजाब",
+      "user_display_name": "पंजाब",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "27",
+      "user_name": "Logan",
+      "user_display_name": "गुजरात",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "28",
+      "user_name": "Logan",
+      "user_display_name": "चंडीगढ़",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "29",
+      "user_name": "Logan",
+      "user_display_name": "हिमाचल",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "30",
+      "user_name": "जयपुर",
+      "user_display_name": "जयपुर",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "31",
+      "user_name": "इंदौर",
+      "user_display_name": "इंदौर",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "32",
+      "user_name": "भोपाल",
+      "user_display_name": "भोपाल",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "33",
+      "user_name": "जोधपुर",
+      "user_display_name": "जोधपुर",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "34",
+      "user_name": "ग्वालियर",
+      "user_display_name": "ग्वालियर",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "35",
+      "user_name": "पटना",
+      "user_display_name": "पटना",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "36",
+      "user_name": "मुंबई",
+      "user_display_name": "मुंबई",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "37",
+      "user_name": "सीकर",
+      "user_display_name": "सीकर",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "38",
+      "user_name": "कोटा",
+      "user_display_name": "कोटा",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "39",
+      "user_name": "रायपुर",
+      "user_display_name": "रायपुर",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "40",
+      "user_name": "जबलपुर",
+      "user_display_name": "जबलपुर",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "41",
+      "user_name": "अलवर",
+      "user_display_name": "अलवर",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "42",
+      "user_name": "अजमेर",
+      "user_display_name": "अजमेर",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "43",
+      "user_name": "18 एसपीडी",
+      "user_display_name": "18 एसपीडी",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "44",
+      "user_name": "अकोदिया",
+      "user_display_name": "अकोदिया",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "45",
+      "user_name": "अमरगढ़",
+      "user_display_name": "अमरगढ़",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "46",
+      "user_name": "अभाना",
+      "user_display_name": "अभाना",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "47",
+      "user_name": "अभनपुर",
+      "user_display_name": "अभनपुर",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "48",
+      "user_name": "अबोहर",
+      "user_display_name": "अबोहर",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "49",
+      "user_name": "आबूरोड",
+      "user_display_name": "आबूरोड",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "50",
+      "user_name": "मुकाम पर वुमन",
+      "user_display_name": "मुकाम पर वुमन",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "51",
+      "user_name": "आदापुर",
+      "user_display_name": "आदापुर",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "52",
+      "user_name": "अड्डा",
+      "user_display_name": "अड्डा",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "53",
+      "user_name": "आदित्यपुर",
+      "user_display_name": "आदित्यपुर",
+      "user_number":"+91 6353 2345 36"
+    },
+    {
+      "user_id": "54",
+      "user_name": "आगरमालवा",
+      "user_display_name": "आगरमालवा",
+      "user_number":"+91 6353 2345 36"
+    }
+  ]

@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_domserializer_node_modules_entities_lib_maps_xml.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_domserializer_node_modules_entities_lib_maps_xml.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontisto.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontisto.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_entities_maps_decode.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_entities_maps_decode.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_profile1.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_profile1.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_searchgray.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_searchgray.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_antdesign.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_mutea.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_mutea.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_textsize.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_textsize.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_homegray.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_homegray.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_dist_src_basic_icon_nbicons.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_nativebase_dist_src_basic_icon_nbicons.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_paper1.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_paper1.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_app.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/app.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_comfg.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_comfg.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_domserializer_node_modules_entities_lib_maps_decode.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_domserializer_node_modules_entities_lib_maps_decode.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_entities_maps_entities.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_entities_maps_entities.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_entities_maps_xml.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_entities_maps_xml.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_antdesign.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_dist_src_basic_icon_selection.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_nativebase_dist_src_basic_icon_selection.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_axios_package.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_axios_package.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_entities_maps_legacy.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_entities_maps_legacy.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_vediogray.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_vediogray.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_domserializer_foreignnames.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_domserializer_foreignnames.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_dblogo.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_dblogo.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnative_package.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_reactnative_package.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_homeblack1.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_homeblack1.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_comfygenlogo.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_comfygenlogo.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_vedioblack.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_vedioblack.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_sharea.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_sharea.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_domserializer_node_modules_entities_lib_maps_entities.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_domserializer_node_modules_entities_lib_maps_entities.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_domserializer_node_modules_entities_lib_maps_legacy.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_domserializer_node_modules_entities_lib_maps_legacy.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_comfygennews.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_comfygennews.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_volumea.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_volumea.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_new.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_new.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/raw_node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/raw/node_modules_nativebase_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_searchblack.png.flat",
+        "source": "/home/majeed/Documents/Rida/ComfyNews/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_searchblack.png"
+    }
+]

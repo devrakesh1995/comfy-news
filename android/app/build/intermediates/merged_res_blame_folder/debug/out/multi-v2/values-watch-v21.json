@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/pnd004/Documents/comfynews/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/pnd004/.gradle/caches/transforms-2/files-2.1/173c056be788ce449606d09b80232569/appcompat-1.4.1/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

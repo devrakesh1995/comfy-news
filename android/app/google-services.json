@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758249273454",
+    "project_id": "danikbhaskar-d9a8f",
+    "storage_bucket": "danikbhaskar-d9a8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758249273454:android:df3aea4d57c827c14d8e7f",
+        "android_client_info": {
+          "package_name": "com.ComfyNews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758249273454-g6tb04s27blb14duu69g9k8l62uvprf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbhFEXJIf6L1Buc_-CUqVMGuql-mzMwGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758249273454-g6tb04s27blb14duu69g9k8l62uvprf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

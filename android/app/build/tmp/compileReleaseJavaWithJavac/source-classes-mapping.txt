@@ -1,0 +1,9 @@
+com/alphatrade/MainApplication.java
+ com.ComfyNews.MainApplication
+ com.ComfyNews.MainApplication$1
+com/ComfyNews/BuildConfig.java
+ com.ComfyNews.BuildConfig
+com/alphatrade/MainActivity.java
+ com.ComfyNews.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
